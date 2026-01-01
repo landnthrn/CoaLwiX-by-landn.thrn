@@ -12,7 +12,7 @@
 All CoaLwiX features work on **[Stand's Free Edition](https://stand.sh/)**  \**which is StoryMode only*\*  
 *ZERO RISK on Storymode, use it Online with a paid Stand Account* 
 
-CoaLwiX is most known for all its wild, random, fun play-type mods, but is also packed and loaded with every best Stand Add-on.  
+CoaLwiX is most known for all its wild, random, fun-play type mods, but is also packed and loaded with every best Stand Add-on.  
 Everything all in one place, and plenty more.  
 Allowing you & your friends to enjoy Rockstar's Los Santos in a whole nother way.  
 
