@@ -54,7 +54,7 @@ Truly providing maximum modding capabilities for an ultimate modding experience!
 
 ——————————
 
-[**Website**](https://coalwixpack.com)
+[**Website**](https://coalwixpack.com) *No Longer Active*
 
 [**Buy Me a Coffee**](https://buymeacoffee.com/landn.thrn/e/449826)
 
