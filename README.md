@@ -51,20 +51,25 @@ Truly providing maximum modding capabilities for an ultimate modding experience!
 
 ### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="40"> Links 
 
-**Website**  
-[coalwixpack.com](https://coalwixpack.com)  
+[**Discord Server**](https://discord.gg/J6jWpru9nS)
 
-**Discord Server**  
-[discord.gg/J6jWpru9nS](https://discord.gg/J6jWpru9nS)  
+——————————
 
-**Twitch**  
-[twitch.tv/coalwix](https://twitch.tv/coalwix)  
+[**Website**](https://coalwixpack.com)
 
-**Kick**  
-[kick.com/coalwix](https://kick.com/coalwix)  
+[**Buy Me a Coffee**](https://buymeacoffee.com/landn.thrn/e/449826)
 
-**Stand Menu**  
-[stand.sh](https://stand.sh)  
+[**Google Drive**](https://drive.google.com/file/d/1cPBiIpoGe_V1yHa8LO5rIcE7Eo0M8Uj9/view?usp=sharing)
+
+——————————
+
+[**Twitch**](https://twitch.tv/coalwix)
+
+[**Kick**](https://kick.com/coalwix)
+
+——————————
+
+[**Stand Menu**](https://stand.sh)
 
 ---
 
