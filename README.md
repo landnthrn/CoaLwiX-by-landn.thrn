@@ -10,32 +10,31 @@
 # <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [SHOWCASE VIDEO](https://www.youtube.com/watch?v=6w-lV45EIHQ)  
 
 All CoaLwiX features work on **[Stand's Free Edition](https://stand.sh/)**  \**which is StoryMode only*\*  
-*ZERO RISK on Storymode, use it Online with a paid Stand Account* 
+*ZERO RISK on Storymode, use it Online with a paid Stand Account*  
 
 CoaLwiX is most known for all its wild, random, fun-play type mods, but is also packed and loaded with every best Stand Add-on.  
-Everything all in one place, and plenty more.  
+Everything + more all in one place, and heavily organized down to a T so that everything is very simple to use and navigate.  
 Allowing you & your friends to enjoy Rockstar's Los Santos in a whole nother way.  
 
-This has been recognized as the most capable setup in GTA V Modding,  
-allowing you to pull off the wildest of mods, even in public's with others using a working co-load setup  
+This has been recognized as the most capable setup in GTA V Modding that aren't ASI/ScriptHookV.  
+Allowing you to pull off the wildest of mods, even in public's with others using a working co-load setup  
 *(Mostly Cherax + Stand , or Yim + Stand)*  
 
 Co-Loading with **Cherax + Stand** has become very popular since Stand no longer works for playing with others.  
 
-Although it's a giant collection, every last file is heavily organized down to a T, so that everything is very simple to use and navigate.  
 Truly providing maximum modding capabilities for an ultimate modding experience!  
 
 ---
 
 ## FULL ALL-IN-ONE COLLECTIONS OF:  
-- ~ 40 Menu Profiles  
-- ~ Profile Alterations  
-- ~ Modded Vehicles  
-- ~ Modded Outfits  
-- ~ Construct Spawns  
-- ~ Easy Teleporting Places  
-- ~ Headers + Themes  
-- ~ Lua Scripts  
+- 40 Menu Profiles  
+- Profile Alterations  
+- Modded Vehicles  
+- Modded Outfits  
+- Construct Spawns  
+- Easy Teleporting Places  
+- Headers + Themes  
+- Lua Scripts  
 
 *Plenty of extras as well*  
 *Simple tutorials for everything included*  
