@@ -7,35 +7,41 @@
 # ENJOY ALL THE BEST GTA V MODS FOR STAND  
 # ALL IN ONE & MORE FOR FREE    
 
-# <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [SHOWCASE VIDEO](https://www.youtube.com/watch?v=6w-lV45EIHQ)  
+<div style="display:flex; align-items:center; gap:12px;">
+  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="140" />
+  <div style="line-height:1.1;">
+    <div><a href="https://www.youtube.com/watch?v=6w-lV45EIHQ"><b>SHOWCASE VIDEO</b></a></div>
+    <div><a href="https://www.youtube.com/watch?v=JcqmFzXDrtI"><b>VIDEO IN PUBLIC'S</b></a></div>
+  </div>
+</div>
 
-All CoaLwiX features work on **[Stand's Free Edition](https://stand.sh/)**  \**which is StoryMode only*\*  
-*ZERO RISK on Storymode, use it Online with a paid Stand Account* 
+<br>
 
-CoaLwiX is most known for all its wild, random, fun play-type mods, but is also packed and loaded with every best Stand Add-on.  
-Everything all in one place, and plenty more.  
+All CoaLwiX features work on **[Stand's Free Edition](https://stand.sh/)**    
+*ZERO RISK on Storymode, use it Online with a paid Stand Account*  
+
+CoaLwiX is most known for all its wild, random, fun-play type mods, but is also packed and loaded with every best Stand Add-on. Everything + more all in one place, and heavily organized down to a T so that everything is very simple to use and navigate.  
 Allowing you & your friends to enjoy Rockstar's Los Santos in a whole nother way.  
 
-This has been recognized as the most capable setup in GTA V Modding,  
-allowing you to pull off the wildest of mods, even in public's with others using a working co-load setup  
+This has been recognized as the most capable setup in GTA V Modding that isn't ASI/ScriptHookV.  
+Allowing you to pull off the wildest of mods, even in public's with others using a working co-load setup  
 *(Mostly Cherax + Stand , or Yim + Stand)*  
 
-Co-Loading with **Cherax + Stand** has become very popular since Stand no longer works for playing with others.  
+Co-Loading with Cherax + Stand has become very popular since Stand no longer works for playing with others.  
 
-Although it's a giant collection, every last file is heavily organized down to a T, so that everything is very simple to use and navigate.  
 Truly providing maximum modding capabilities for an ultimate modding experience!  
 
 ---
 
 ## FULL ALL-IN-ONE COLLECTIONS OF:  
-- ~ 40 Menu Profiles  
-- ~ Profile Alterations  
-- ~ Modded Vehicles  
-- ~ Modded Outfits  
-- ~ Construct Spawns  
-- ~ Easy Teleporting Places  
-- ~ Headers + Themes  
-- ~ Lua Scripts  
+- 40 Menu Profiles  
+- Profile Alterations  
+- Modded Vehicles  
+- Modded Outfits  
+- Construct Spawns  
+- Easy Teleporting Places  
+- Headers + Themes  
+- Lua Scripts  
 
 *Plenty of extras as well*  
 *Simple tutorials for everything included*  
@@ -44,20 +50,25 @@ Truly providing maximum modding capabilities for an ultimate modding experience!
 
 ### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="40"> Links 
 
-**Website**  
-[coalwixpack.com](https://coalwixpack.com)  
+[**Discord Server**](https://discord.gg/J6jWpru9nS)
 
-**Discord Server**  
-[discord.gg/J6jWpru9nS](https://discord.gg/J6jWpru9nS)  
+——————————
 
-**Twitch**  
-[twitch.tv/coalwix](https://twitch.tv/coalwix)  
+[**Website**](https://coalwixpack.com)
 
-**Kick**  
-[kick.com/coalwix](https://kick.com/coalwix)  
+[**Buy Me a Coffee**](https://buymeacoffee.com/landn.thrn/e/449826)
 
-**Stand Menu**  
-[stand.sh](https://stand.sh)  
+[**Google Drive**](https://drive.google.com/file/d/1cPBiIpoGe_V1yHa8LO5rIcE7Eo0M8Uj9/view?usp=sharing)
+
+——————————
+
+[**Twitch**](https://twitch.tv/coalwix)
+
+[**Kick**](https://kick.com/coalwix)
+
+——————————
+
+[**Stand Menu**](https://stand.sh)
 
 ---
 
