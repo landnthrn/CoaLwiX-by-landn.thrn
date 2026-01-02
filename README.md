@@ -7,9 +7,17 @@
 # ENJOY ALL THE BEST GTA V MODS FOR STAND  
 # ALL IN ONE & MORE FOR FREE    
 
-# <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [SHOWCASE VIDEO](https://www.youtube.com/watch?v=6w-lV45EIHQ)  
+<div style="display:flex; align-items:center; gap:12px;">
+  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="140" />
+  <div style="line-height:1.1;">
+    <div><a href="https://www.youtube.com/watch?v=6w-lV45EIHQ"><b>SHOWCASE VIDEO</b></a></div>
+    <div><a href="https://www.youtube.com/watch?v=JcqmFzXDrtI"><b>VIDEO IN PUBLIC'S</b></a></div>
+  </div>
+</div>
 
-All CoaLwiX features work on **[Stand's Free Edition](https://stand.sh/)**  \**which is StoryMode only*\*  
+<br>
+
+All CoaLwiX features work on **[Stand's Free Edition](https://stand.sh/)**    
 *ZERO RISK on Storymode, use it Online with a paid Stand Account*  
 
 CoaLwiX is most known for all its wild, random, fun-play type mods, but is also packed and loaded with every best Stand Add-on.  
@@ -20,7 +28,7 @@ This has been recognized as the most capable setup in GTA V Modding that isn't A
 Allowing you to pull off the wildest of mods, even in public's with others using a working co-load setup  
 *(Mostly Cherax + Stand , or Yim + Stand)*  
 
-Co-Loading with **Cherax + Stand** has become very popular since Stand no longer works for playing with others.  
+Co-Loading with Cherax + Stand has become very popular since Stand no longer works for playing with others.  
 
 Truly providing maximum modding capabilities for an ultimate modding experience!  
 
