@@ -16,7 +16,7 @@ CoaLwiX is most known for all its wild, random, fun-play type mods, but is also 
 Everything + more all in one place, and heavily organized down to a T so that everything is very simple to use and navigate.  
 Allowing you & your friends to enjoy Rockstar's Los Santos in a whole nother way.  
 
-This has been recognized as the most capable setup in GTA V Modding that aren't ASI/ScriptHookV.  
+This has been recognized as the most capable setup in GTA V Modding that isn't ASI/ScriptHookV.  
 Allowing you to pull off the wildest of mods, even in public's with others using a working co-load setup  
 *(Mostly Cherax + Stand , or Yim + Stand)*  
 
