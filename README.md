@@ -50,25 +50,32 @@ Truly providing maximum modding capabilities for an ultimate modding experience!
 
 ### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="40"> Links 
 
-[**Discord Server**](https://discord.gg/J6jWpru9nS)
+——————————
+
+### [JOIN COALWIX DISCORD SERVER](https://discord.gg/J6jWpru9nS)
+**(Central Hub for GTA Modders)**  
+**Share Files Together • Mod Support • Keep Up to Date**  
+**Get loaded with Menu Addons, Lua scripts, Vehicles, Outfits, All in One Packs, & more**  
 
 ——————————
 
-[**Website**](https://coalwixpack.com) `*Offline*`
+### DOWNLOAD:
 
-[**Buy Me a Coffee**](https://buymeacoffee.com/landn.thrn/e/449826)
+### [**Website**](https://coalwixpack.com) - `*Offline*`
 
-[**Google Drive**](https://drive.google.com/file/d/1cPBiIpoGe_V1yHa8LO5rIcE7Eo0M8Uj9/view?usp=sharing)
+### [**Buy Me a Coffee**](https://buymeacoffee.com/landn.thrn/e/449826)
 
-——————————
-
-[**Twitch**](https://twitch.tv/coalwix)
-
-[**Kick**](https://kick.com/coalwix)
+### [**Google Drive**](https://drive.google.com/file/d/1cPBiIpoGe_V1yHa8LO5rIcE7Eo0M8Uj9/view?usp=sharing)
 
 ——————————
 
-[**Stand Menu**](https://stand.sh)
+### [**Twitch**](https://twitch.tv/coalwix)
+
+### [**Kick**](https://kick.com/coalwix)
+
+——————————
+
+### [**Stand Menu**](https://stand.sh) - `*Use VPN to Access*`
 
 ---
 
