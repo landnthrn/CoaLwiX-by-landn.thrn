@@ -1,4 +1,5 @@
-## **\**Recommended to download with the links at the bottom of this page*\***
+### **Download links at the bottom**
+##### \**GitHub didn't support this many files in a repo*\*
 
 <img width="965" height="769" alt="CoaLwiX Collage" src="https://github.com/user-attachments/assets/e339a916-4ae7-451e-85f8-b91f5b85dd92" />
 
